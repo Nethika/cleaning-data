@@ -1,4 +1,4 @@
-# cleaning-data
+#Coursera: Getting & Cleaning Data - Course Project
 
 This project collects, works with, and cleans a data set. The goal is to prepare tidy data that can be used for later analysis. 
 
